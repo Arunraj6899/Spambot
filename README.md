@@ -2,7 +2,7 @@
 
 <h2 align="center">
 
-    ──「 sᴘᴀᴍ ✘ ʙᴏᴛ 」──
+    ──「 FATHER sᴘᴀᴍ ✘ ʙᴏᴛ 」──
 
 </h2>
 
@@ -48,7 +48,7 @@ _𝗠𝗲𝘀𝘀𝗮𝗴𝗲 𝗺𝗲 𝗼𝗻 𝘁𝗲𝗹𝗲𝗴𝗿𝗮𝗺
 
 <p align="center">
 
-<a href="https://telegram.me/Earn_without_investment01"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/ll_GOD_ABOUT_ll"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 </p>
 
@@ -66,9 +66,9 @@ _𝗠𝗲𝘀𝘀𝗮𝗴𝗲 𝗺𝗲 𝗼𝗻 𝘁𝗲𝗹𝗲𝗴𝗿𝗮𝗺
 
 </h3>
 
-- <b>[ᴍʏ ᴛᴇʟᴇɢʀᴀᴍ](http://t.me/shivam_jaiswal001)  ➻  [ ʏᴏᴜᴛᴜʙᴇ](https://youtube.com/@Shivam_jaiswal001) </b>
+- <b>[ᴍʏ ᴛᴇʟᴇɢʀᴀᴍ](https://t.me/ll_GOD_ABOUT_ll)  ➻  [ ʏᴏᴜᴛᴜʙᴇ](https://youtube.com/@Shivam_jaiswal001) </b>
 
-- <b>[𝐀xᴇɴ](https://t.me/PyXen)  ➻  [ ʀᴇᴘᴏ ʟɪɴᴋ](https://github.com/ItZxSTaR/XBOTS) </b>
+- <b>[𝐀xᴇɴ](https://t.me/PyXen)  ➻  [ ʀᴇᴘᴏ ʟɪɴᴋ](https://t.me/ll_GOD_ABOUT_ll) </b>
 
  <b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/Shivam892483/SpambotV2/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ sᴘᴀᴍ ✘ ʙᴏᴛ ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ 🖤 </b>
 
