@@ -12,13 +12,13 @@
 
 </p>
 
-_𝗠𝗲𝘀𝘀𝗮𝗴𝗲 𝗺𝗲 𝗼𝗻 𝘁𝗲𝗹𝗲𝗴𝗿𝗮𝗺 [ ˹Ꭻᴏʜɴ ꭙ ᴄᴇɴᎪ˼❤️](https://t.me/john_cena0011)_
+_𝗠𝗲𝘀𝘀𝗮𝗴𝗲 𝗺𝗲 𝗼𝗻 𝘁𝗲𝗹𝗲𝗴𝗿𝗮𝗺 [ ˹Ꭻᴏʜɴ ꭙ ᴄᴇɴᎪ˼❤️](https://t.me/ll_GOD_ABOUT_ll)_
 
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
 
-  <img src="https://te.legra.ph/file/ad4762b9906450e728074.jpg">
+  <img src="https://envs.sh/urx.jpg/IMG20250818129.jpg">
 
 </p>
 
