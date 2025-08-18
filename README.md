@@ -8,11 +8,11 @@
 
 <p align="center">
 
-  <img src="https://te.legra.ph/file/f13f31192e552e8666bd5.jpg">
+  <img src="https://envs.sh/urx.jpg/IMG20250818129.jpg">
 
 </p>
 
-_𝗠𝗲𝘀𝘀𝗮𝗴𝗲 𝗺𝗲 𝗼𝗻 𝘁𝗲𝗹𝗲𝗴𝗿𝗮𝗺 [ ˹Ꭻᴏʜɴ ꭙ ᴄᴇɴᎪ˼❤️](https://t.me/john_cena0011)_
+_𝗠𝗲𝘀𝘀𝗮𝗴𝗲 𝗺𝗲 𝗼𝗻 𝘁𝗲𝗹𝗲𝗴𝗿𝗮𝗺 [ ˹Ꭻᴏʜɴ ꭙ ᴄᴇɴᎪ˼❤️](https://t.me/ll_GOD_ABOUT_ll)_
 
 ━━━━━━━━━━━━━━━━━━━━
 
@@ -48,7 +48,7 @@ _𝗠𝗲𝘀𝘀𝗮𝗴𝗲 𝗺𝗲 𝗼𝗻 𝘁𝗲𝗹𝗲𝗴𝗿𝗮𝗺
 
 <p align="center">
 
-<a href="https://telegram.me/Earn_without_investment01"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/ll_GOD_ABOUT_ll"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 </p>
 
@@ -70,7 +70,7 @@ _𝗠𝗲𝘀𝘀𝗮𝗴𝗲 𝗺𝗲 𝗼𝗻 𝘁𝗲𝗹𝗲𝗴𝗿𝗮𝗺
 
 - <b>[𝐀xᴇɴ](https://t.me/PyXen)  ➻  [ ʀᴇᴘᴏ ʟɪɴᴋ](https://github.com/ItZxSTaR/XBOTS) </b>
 
- <b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/Shivam892483/SpambotV2/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ sᴘᴀᴍ ✘ ʙᴏᴛ ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ 🖤 </b>
+ <b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://t.me/ll_GOD_ABOUT_ll) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ sᴘᴀᴍ ✘ ʙᴏᴛ ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ 🖤 </b>
 
 ━━━━━━━━━━━━━━━━━━━━
 
