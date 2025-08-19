@@ -268,6 +268,7 @@ REPLYRAID = [
     "RANIDIII",
     "BACHEE",
     "CHODU",
+    "@ll_GOD_FATHER_BABU_ll TERA BAAP HAI",
     "RANDI",
     "RANDI KE PILLE",
     "TERIIIII MAAA KO BHEJJJ",
@@ -370,6 +371,7 @@ PORMS = [
 
 
 MRAID = [
+    "MERE OWNER PE LINE MARO USE PATA LIYA TO MAJE HI MAJE HAI LO USER NAME @ll_GOD_FATHER_BABU_ll",
     "Tere naalo challiye haseen koyi NA 😁😁",
     "Taare chann ambar zameen koyi nA",
     "Main Jado Tere Mode Utte Sir Rakheya🧐🧐",
@@ -519,6 +521,7 @@ MRAID = [
 
 
 SRAID = [
+    "MERA OWNER CUTE HAI DEKHO 👉 @ll_GOD_FATHER_BABU_ll ",
     "इश्क़ है या कुछ और ये पता नहीं, पर जो तुमसे है किसी और से नहीं 😁😁",
     "मै कैसे कहू की उसका साथ कैसा है, वो एक शख्स पुरे कायनात जैसा है ",
     " तेरा होना ही मेरे लिये खास है, तू दूर ही सही मगर मेरे दिल के पास है ",
