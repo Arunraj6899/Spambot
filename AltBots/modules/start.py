@@ -12,7 +12,7 @@ START_BUTTON = [
         Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/ll_GOD_ABOUT_ll")
     ],
     [
-        Button.url("• GOD FATHER •", "https://t.me/ll_GOD_ABOUT_ll")
+        Button.url("• GOD FATHER •", "http://t.me/ll_GOD_FATHER_BABU_ll")
     ]
 ]
 
@@ -34,10 +34,10 @@ async def start(event):
         bot_name = AltBot.first_name
         bot_id = AltBot.id
         TEXT = f"**ʜᴇʏ​ [{event.sender.first_name}](tg://user?id={event.sender.id}),\n\nɪ ᴀᴍ [{bot_name}](tg://user?id={bot_id})​**\n━━━━━━━━━━━━━━━━━━━\n\n"
-        TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [GOD ꭙ FATHER](https://t.me/ll_GOD_ABOUT_ll)**\n\n"
+        TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [GOD ꭙ FATHER](http://t.me/ll_GOD_FATHER_BABU_ll)**\n\n"
         TEXT += f"» **xʙᴏᴛꜱ ᴠᴇʀsɪᴏɴ :** `M3.3`\n"
         TEXT += f"» **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `3.11.3`\n"
-        TEXT += f"» **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{__version__}`\n━━━━━━━━━━━━━━━━━\n\n🥀 ᴛʜɪs ɪs sᴘᴀᴍ ʙᴏᴛ ᴅᴏɴ'ᴛ ᴛʜɪɴᴋ I ᴀᴍ ᴏᴡɴᴇʀ [ɪ ᴀᴍ Jᴜsᴛ ᴄᴏᴅᴇ ᴅᴇᴘʟᴏᴇʀ](https://t.me/ll_GOD_ABOUT_ll) , ᴜsᴇ sᴘᴀᴍʙᴏᴛ ᴀɴᴅ ᴇɴJᴏʏ"
+        TEXT += f"» **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{__version__}`\n━━━━━━━━━━━━━━━━━\n\n🥀 ᴛʜɪs ɪs sᴘᴀᴍ ʙᴏᴛ ᴅᴏɴ'ᴛ ᴛʜɪɴᴋ I ᴀᴍ ᴏᴡɴᴇʀ [ɪ ᴀᴍ Jᴜsᴛ ᴄᴏᴅᴇ ᴅᴇᴘʟᴏᴇʀ](http://t.me/ll_GOD_FATHER_BABU_ll) , ᴜsᴇ sᴘᴀᴍʙᴏᴛ ᴀɴᴅ ᴇɴJᴏʏ"
         await event.client.send_file(
                     event.chat_id,
                     "https://envs.sh/urx.jpg/IMG20250818129.jpg",
