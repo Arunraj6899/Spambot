@@ -66,7 +66,7 @@ _𝗠𝗲𝘀𝘀𝗮𝗴𝗲 𝗺𝗲 𝗼𝗻 𝘁𝗲𝗹𝗲𝗴𝗿𝗮𝗺
 
 </h3>
 
-- <b>[ᴍʏ ᴛᴇʟᴇɢʀᴀᴍ](https://t.me/ll_GOD_ABOUT_ll)  ➻  [ ʏᴏᴜᴛᴜʙᴇ](https://t.me/ll_GOD_ABOUT_ll) </b>
+- <b>[ᴍʏ ᴛᴇʟᴇɢʀᴀᴍ](http://t.me/ll_GOD_FATHER_BABU_ll)  ➻  [ ʏᴏᴜᴛᴜʙᴇ](https://t.me/ll_GOD_ABOUT_ll) </b>
 
 - <b>[𝐀xᴇɴ](https://t.me/PyXen)  ➻  [ ʀᴇᴘᴏ ʟɪɴᴋ](http://t.me/ll_GOD_FATHER_BABU_ll) </b>
 
