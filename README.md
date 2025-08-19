@@ -48,7 +48,7 @@ _𝗠𝗲𝘀𝘀𝗮𝗴𝗲 𝗺𝗲 𝗼𝗻 𝘁𝗲𝗹𝗲𝗴𝗿𝗮𝗺
 
 <p align="center">
 
-<a href="https://t.me/ll_GOD_ABOUT_ll"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/ll_GOD_ABOUT_ll"><img src="https://img.shields.io/badg[e/-Support%20Group-blue.svg?](http://t.me/ll_GOD_FATHER_BABU_ll)style=for-the-badge&logo=Telegram"></a>
 
 </p>
 
